@@ -1,0 +1,6 @@
+div.scroll_sync,div.scroll{
+    width: 100px;
+    height: 100px;
+    overflow: scroll;
+    display: inline-block;
+}
